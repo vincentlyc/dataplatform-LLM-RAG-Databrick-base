@@ -1,0 +1,5 @@
+databricks-vectorsearch
+openai
+databricks-openai
+python-docx
+pandas
